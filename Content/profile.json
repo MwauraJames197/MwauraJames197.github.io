@@ -30,7 +30,7 @@
     "Desc": "Bandpass sallen key circuit that passes 17kHz frequencies, combined with a peak detector, and comparator",
     "GitHubRepo": "https://github.com",
     "MainImage": "IMG_7612.jpg",
-    "DetailImages": ["IMG_7530.jpg","P1Detail2.png","P1Detail3.png"]
+    "DetailImages": ["IMG_7530.jpg","IMG_7614.jpg"]
   },
   "Project2": {
     "Title": "Interesting Project 2",
