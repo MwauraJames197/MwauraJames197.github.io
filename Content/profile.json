@@ -26,8 +26,8 @@
   "Resume": "student-resume.pdf"  
 },
 "Project1": {
-    "Title": "Interesting Project 1",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
+    "Title": "Sallen Key filter",
+    "Desc": "Bandpass sallen key circuit that passes 17kHz frequencies, combined with a peak detector, and comparator",
     "GitHubRepo": "https://github.com",
     "MainImage": "P1Main.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
