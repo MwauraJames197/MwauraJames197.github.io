@@ -37,7 +37,7 @@
     "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P2Main.png",
-    "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
+    "DetailImages": ["Content/IMG_7530.jpg","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
   },
   "Project3": {
     "Title": "Interesting Project 3",
